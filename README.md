@@ -6,12 +6,7 @@ Physics-Based G-Code Kinematics Optimizer
 UXE Motion Engine is a post-processing tool designed to eliminate 3D printing vibrations (ringing/ghosting) by analyzing geometric stress. Unlike standard slicers, UXE uses a Weighted RSS Stress Model to 
 intelligently smooth motion only where it matters.
 
-Based on telemetry data from a 74,000-line 3DBenchy test:
 
-Mode,UXE Score,Time Impact,Stress Reduction,Behavior
-SPEED,91.5 / 100,+11.4%,-13%,0.0% Hard Brakes (Fluid Motion)
-BALANCED,92.5 / 100,+32.6%,-28%,Balanced protection & speed
-QUALITY,72.8 / 100,+88.8%,-49%,Max vibration suppression
 
 How It Works
 
