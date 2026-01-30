@@ -33,6 +33,7 @@ Progressive UI: Easy-to-use interface with real-time optimization tracking.
 If you want to run from source:
 
 pip install -r requirements.txt
+
 python main_gui.py
 
 Core Logic
