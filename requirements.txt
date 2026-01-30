@@ -1,0 +1,9 @@
+# UI Framework
+customtkinter==5.2.2
+
+# Data Analysis & Graphing
+pandas==2.2.0
+matplotlib==3.8.2
+
+# Packaging (Optional, but good for building the EXE)
+pyinstaller==6.18.0

@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# PyInstaller / Build files
+build/
+dist/
+*.spec
+
+# Data/Logs (Optional: keeps your repo clean of your specific test runs)
+*_telemetry.json
+*_optimized.gcode
+
+# Virtual Environments
+venv/
+.env
